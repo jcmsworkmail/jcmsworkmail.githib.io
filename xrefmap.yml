@@ -1,0 +1,358 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: NetworkUtility.Helpers
+  name: NetworkUtility.Helpers
+  href: api/NetworkUtility.Helpers.html
+  commentId: N:NetworkUtility.Helpers
+  fullName: NetworkUtility.Helpers
+  nameWithType: NetworkUtility.Helpers
+- uid: NetworkUtility.Helpers.CheckHostName
+  name: CheckHostName
+  href: api/NetworkUtility.Helpers.CheckHostName.html
+  commentId: T:NetworkUtility.Helpers.CheckHostName
+  fullName: NetworkUtility.Helpers.CheckHostName
+  nameWithType: CheckHostName
+- uid: NetworkUtility.Helpers.CheckHostName.CheckHostNameOrAddress(System.String)
+  name: CheckHostNameOrAddress(String)
+  href: api/NetworkUtility.Helpers.CheckHostName.html#NetworkUtility_Helpers_CheckHostName_CheckHostNameOrAddress_System_String_
+  commentId: M:NetworkUtility.Helpers.CheckHostName.CheckHostNameOrAddress(System.String)
+  fullName: NetworkUtility.Helpers.CheckHostName.CheckHostNameOrAddress(System.String)
+  nameWithType: CheckHostName.CheckHostNameOrAddress(String)
+- uid: NetworkUtility.Helpers.CheckHostName.CheckHostNameOrAddress*
+  name: CheckHostNameOrAddress
+  href: api/NetworkUtility.Helpers.CheckHostName.html#NetworkUtility_Helpers_CheckHostName_CheckHostNameOrAddress_
+  commentId: Overload:NetworkUtility.Helpers.CheckHostName.CheckHostNameOrAddress
+  isSpec: "True"
+  fullName: NetworkUtility.Helpers.CheckHostName.CheckHostNameOrAddress
+  nameWithType: CheckHostName.CheckHostNameOrAddress
+- uid: NetworkUtility.Helpers.ExportCSV
+  name: ExportCSV
+  href: api/NetworkUtility.Helpers.ExportCSV.html
+  commentId: T:NetworkUtility.Helpers.ExportCSV
+  fullName: NetworkUtility.Helpers.ExportCSV
+  nameWithType: ExportCSV
+- uid: NetworkUtility.Helpers.ExportCSV.#ctor
+  name: ExportCSV()
+  href: api/NetworkUtility.Helpers.ExportCSV.html#NetworkUtility_Helpers_ExportCSV__ctor
+  commentId: M:NetworkUtility.Helpers.ExportCSV.#ctor
+  fullName: NetworkUtility.Helpers.ExportCSV.ExportCSV()
+  nameWithType: ExportCSV.ExportCSV()
+- uid: NetworkUtility.Helpers.ExportCSV.#ctor*
+  name: ExportCSV
+  href: api/NetworkUtility.Helpers.ExportCSV.html#NetworkUtility_Helpers_ExportCSV__ctor_
+  commentId: Overload:NetworkUtility.Helpers.ExportCSV.#ctor
+  isSpec: "True"
+  fullName: NetworkUtility.Helpers.ExportCSV.ExportCSV
+  nameWithType: ExportCSV.ExportCSV
+- uid: NetworkUtility.Helpers.ExportCSV.WriteLogsAppend(System.String,System.String)
+  name: WriteLogsAppend(String, String)
+  href: api/NetworkUtility.Helpers.ExportCSV.html#NetworkUtility_Helpers_ExportCSV_WriteLogsAppend_System_String_System_String_
+  commentId: M:NetworkUtility.Helpers.ExportCSV.WriteLogsAppend(System.String,System.String)
+  fullName: NetworkUtility.Helpers.ExportCSV.WriteLogsAppend(System.String, System.String)
+  nameWithType: ExportCSV.WriteLogsAppend(String, String)
+- uid: NetworkUtility.Helpers.ExportCSV.WriteLogsAppend(System.String,System.Text.StringBuilder,System.String)
+  name: WriteLogsAppend(String, StringBuilder, String)
+  href: api/NetworkUtility.Helpers.ExportCSV.html#NetworkUtility_Helpers_ExportCSV_WriteLogsAppend_System_String_System_Text_StringBuilder_System_String_
+  commentId: M:NetworkUtility.Helpers.ExportCSV.WriteLogsAppend(System.String,System.Text.StringBuilder,System.String)
+  fullName: NetworkUtility.Helpers.ExportCSV.WriteLogsAppend(System.String, System.Text.StringBuilder, System.String)
+  nameWithType: ExportCSV.WriteLogsAppend(String, StringBuilder, String)
+- uid: NetworkUtility.Helpers.ExportCSV.WriteLogsAppend*
+  name: WriteLogsAppend
+  href: api/NetworkUtility.Helpers.ExportCSV.html#NetworkUtility_Helpers_ExportCSV_WriteLogsAppend_
+  commentId: Overload:NetworkUtility.Helpers.ExportCSV.WriteLogsAppend
+  isSpec: "True"
+  fullName: NetworkUtility.Helpers.ExportCSV.WriteLogsAppend
+  nameWithType: ExportCSV.WriteLogsAppend
+- uid: NetworkUtility.Services
+  name: NetworkUtility.Services
+  href: api/NetworkUtility.Services.html
+  commentId: N:NetworkUtility.Services
+  fullName: NetworkUtility.Services
+  nameWithType: NetworkUtility.Services
+- uid: NetworkUtility.Services.NetworkStatisticsService
+  name: NetworkStatisticsService
+  href: api/NetworkUtility.Services.NetworkStatisticsService.html
+  commentId: T:NetworkUtility.Services.NetworkStatisticsService
+  fullName: NetworkUtility.Services.NetworkStatisticsService
+  nameWithType: NetworkStatisticsService
+- uid: NetworkUtility.Services.NetworkStatisticsService.#ctor
+  name: NetworkStatisticsService()
+  href: api/NetworkUtility.Services.NetworkStatisticsService.html#NetworkUtility_Services_NetworkStatisticsService__ctor
+  commentId: M:NetworkUtility.Services.NetworkStatisticsService.#ctor
+  fullName: NetworkUtility.Services.NetworkStatisticsService.NetworkStatisticsService()
+  nameWithType: NetworkStatisticsService.NetworkStatisticsService()
+- uid: NetworkUtility.Services.NetworkStatisticsService.#ctor*
+  name: NetworkStatisticsService
+  href: api/NetworkUtility.Services.NetworkStatisticsService.html#NetworkUtility_Services_NetworkStatisticsService__ctor_
+  commentId: Overload:NetworkUtility.Services.NetworkStatisticsService.#ctor
+  isSpec: "True"
+  fullName: NetworkUtility.Services.NetworkStatisticsService.NetworkStatisticsService
+  nameWithType: NetworkStatisticsService.NetworkStatisticsService
+- uid: NetworkUtility.Services.NetworkStatisticsService.GetTcpStatistics(System.Boolean)
+  name: GetTcpStatistics(Boolean)
+  href: api/NetworkUtility.Services.NetworkStatisticsService.html#NetworkUtility_Services_NetworkStatisticsService_GetTcpStatistics_System_Boolean_
+  commentId: M:NetworkUtility.Services.NetworkStatisticsService.GetTcpStatistics(System.Boolean)
+  fullName: NetworkUtility.Services.NetworkStatisticsService.GetTcpStatistics(System.Boolean)
+  nameWithType: NetworkStatisticsService.GetTcpStatistics(Boolean)
+- uid: NetworkUtility.Services.NetworkStatisticsService.GetTcpStatistics*
+  name: GetTcpStatistics
+  href: api/NetworkUtility.Services.NetworkStatisticsService.html#NetworkUtility_Services_NetworkStatisticsService_GetTcpStatistics_
+  commentId: Overload:NetworkUtility.Services.NetworkStatisticsService.GetTcpStatistics
+  isSpec: "True"
+  fullName: NetworkUtility.Services.NetworkStatisticsService.GetTcpStatistics
+  nameWithType: NetworkStatisticsService.GetTcpStatistics
+- uid: NetworkUtility.Services.NetworkStatisticsService.GetUdpStatistics(System.Boolean)
+  name: GetUdpStatistics(Boolean)
+  href: api/NetworkUtility.Services.NetworkStatisticsService.html#NetworkUtility_Services_NetworkStatisticsService_GetUdpStatistics_System_Boolean_
+  commentId: M:NetworkUtility.Services.NetworkStatisticsService.GetUdpStatistics(System.Boolean)
+  fullName: NetworkUtility.Services.NetworkStatisticsService.GetUdpStatistics(System.Boolean)
+  nameWithType: NetworkStatisticsService.GetUdpStatistics(Boolean)
+- uid: NetworkUtility.Services.NetworkStatisticsService.GetUdpStatistics*
+  name: GetUdpStatistics
+  href: api/NetworkUtility.Services.NetworkStatisticsService.html#NetworkUtility_Services_NetworkStatisticsService_GetUdpStatistics_
+  commentId: Overload:NetworkUtility.Services.NetworkStatisticsService.GetUdpStatistics
+  isSpec: "True"
+  fullName: NetworkUtility.Services.NetworkStatisticsService.GetUdpStatistics
+  nameWithType: NetworkStatisticsService.GetUdpStatistics
+- uid: NetworkUtility.Services.PingService
+  name: PingService
+  href: api/NetworkUtility.Services.PingService.html
+  commentId: T:NetworkUtility.Services.PingService
+  fullName: NetworkUtility.Services.PingService
+  nameWithType: PingService
+- uid: NetworkUtility.Services.PingService.#ctor
+  name: PingService()
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService__ctor
+  commentId: M:NetworkUtility.Services.PingService.#ctor
+  fullName: NetworkUtility.Services.PingService.PingService()
+  nameWithType: PingService.PingService()
+- uid: NetworkUtility.Services.PingService.#ctor*
+  name: PingService
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService__ctor_
+  commentId: Overload:NetworkUtility.Services.PingService.#ctor
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PingService.PingService
+  nameWithType: PingService.PingService
+- uid: NetworkUtility.Services.PingService.ExportPingLogs(System.String,System.String)
+  name: ExportPingLogs(String, String)
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService_ExportPingLogs_System_String_System_String_
+  commentId: M:NetworkUtility.Services.PingService.ExportPingLogs(System.String,System.String)
+  fullName: NetworkUtility.Services.PingService.ExportPingLogs(System.String, System.String)
+  nameWithType: PingService.ExportPingLogs(String, String)
+- uid: NetworkUtility.Services.PingService.ExportPingLogs*
+  name: ExportPingLogs
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService_ExportPingLogs_
+  commentId: Overload:NetworkUtility.Services.PingService.ExportPingLogs
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PingService.ExportPingLogs
+  nameWithType: PingService.ExportPingLogs
+- uid: NetworkUtility.Services.PingService.SendPing(System.String)
+  name: SendPing(String)
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService_SendPing_System_String_
+  commentId: M:NetworkUtility.Services.PingService.SendPing(System.String)
+  fullName: NetworkUtility.Services.PingService.SendPing(System.String)
+  nameWithType: PingService.SendPing(String)
+- uid: NetworkUtility.Services.PingService.SendPing(System.String[])
+  name: SendPing(String[])
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService_SendPing_System_String___
+  commentId: M:NetworkUtility.Services.PingService.SendPing(System.String[])
+  name.vb: SendPing(String())
+  fullName: NetworkUtility.Services.PingService.SendPing(System.String[])
+  fullName.vb: NetworkUtility.Services.PingService.SendPing(System.String())
+  nameWithType: PingService.SendPing(String[])
+  nameWithType.vb: PingService.SendPing(String())
+- uid: NetworkUtility.Services.PingService.SendPing*
+  name: SendPing
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService_SendPing_
+  commentId: Overload:NetworkUtility.Services.PingService.SendPing
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PingService.SendPing
+  nameWithType: PingService.SendPing
+- uid: NetworkUtility.Services.PingService.SendPingByFile(System.String)
+  name: SendPingByFile(String)
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService_SendPingByFile_System_String_
+  commentId: M:NetworkUtility.Services.PingService.SendPingByFile(System.String)
+  fullName: NetworkUtility.Services.PingService.SendPingByFile(System.String)
+  nameWithType: PingService.SendPingByFile(String)
+- uid: NetworkUtility.Services.PingService.SendPingByFile*
+  name: SendPingByFile
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService_SendPingByFile_
+  commentId: Overload:NetworkUtility.Services.PingService.SendPingByFile
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PingService.SendPingByFile
+  nameWithType: PingService.SendPingByFile
+- uid: NetworkUtility.Services.PingService.SendPingByRangeAsync(System.String,System.String)
+  name: SendPingByRangeAsync(String, String)
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService_SendPingByRangeAsync_System_String_System_String_
+  commentId: M:NetworkUtility.Services.PingService.SendPingByRangeAsync(System.String,System.String)
+  fullName: NetworkUtility.Services.PingService.SendPingByRangeAsync(System.String, System.String)
+  nameWithType: PingService.SendPingByRangeAsync(String, String)
+- uid: NetworkUtility.Services.PingService.SendPingByRangeAsync*
+  name: SendPingByRangeAsync
+  href: api/NetworkUtility.Services.PingService.html#NetworkUtility_Services_PingService_SendPingByRangeAsync_
+  commentId: Overload:NetworkUtility.Services.PingService.SendPingByRangeAsync
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PingService.SendPingByRangeAsync
+  nameWithType: PingService.SendPingByRangeAsync
+- uid: NetworkUtility.Services.PortScanService
+  name: PortScanService
+  href: api/NetworkUtility.Services.PortScanService.html
+  commentId: T:NetworkUtility.Services.PortScanService
+  fullName: NetworkUtility.Services.PortScanService
+  nameWithType: PortScanService
+- uid: NetworkUtility.Services.PortScanService.#ctor(System.String,System.String)
+  name: PortScanService(String, String)
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService__ctor_System_String_System_String_
+  commentId: M:NetworkUtility.Services.PortScanService.#ctor(System.String,System.String)
+  fullName: NetworkUtility.Services.PortScanService.PortScanService(System.String, System.String)
+  nameWithType: PortScanService.PortScanService(String, String)
+- uid: NetworkUtility.Services.PortScanService.#ctor*
+  name: PortScanService
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService__ctor_
+  commentId: Overload:NetworkUtility.Services.PortScanService.#ctor
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PortScanService.PortScanService
+  nameWithType: PortScanService.PortScanService
+- uid: NetworkUtility.Services.PortScanService.ScanEndPoint(System.String)
+  name: ScanEndPoint(String)
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanEndPoint_System_String_
+  commentId: M:NetworkUtility.Services.PortScanService.ScanEndPoint(System.String)
+  fullName: NetworkUtility.Services.PortScanService.ScanEndPoint(System.String)
+  nameWithType: PortScanService.ScanEndPoint(String)
+- uid: NetworkUtility.Services.PortScanService.ScanEndPoint(System.String,System.Int32[])
+  name: ScanEndPoint(String, Int32[])
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanEndPoint_System_String_System_Int32___
+  commentId: M:NetworkUtility.Services.PortScanService.ScanEndPoint(System.String,System.Int32[])
+  name.vb: ScanEndPoint(String, Int32())
+  fullName: NetworkUtility.Services.PortScanService.ScanEndPoint(System.String, System.Int32[])
+  fullName.vb: NetworkUtility.Services.PortScanService.ScanEndPoint(System.String, System.Int32())
+  nameWithType: PortScanService.ScanEndPoint(String, Int32[])
+  nameWithType.vb: PortScanService.ScanEndPoint(String, Int32())
+- uid: NetworkUtility.Services.PortScanService.ScanEndPoint*
+  name: ScanEndPoint
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanEndPoint_
+  commentId: Overload:NetworkUtility.Services.PortScanService.ScanEndPoint
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PortScanService.ScanEndPoint
+  nameWithType: PortScanService.ScanEndPoint
+- uid: NetworkUtility.Services.PortScanService.ScanPort(System.Net.IPAddress,System.Int32)
+  name: ScanPort(IPAddress, Int32)
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanPort_System_Net_IPAddress_System_Int32_
+  commentId: M:NetworkUtility.Services.PortScanService.ScanPort(System.Net.IPAddress,System.Int32)
+  fullName: NetworkUtility.Services.PortScanService.ScanPort(System.Net.IPAddress, System.Int32)
+  nameWithType: PortScanService.ScanPort(IPAddress, Int32)
+- uid: NetworkUtility.Services.PortScanService.ScanPort(System.String,System.Int32)
+  name: ScanPort(String, Int32)
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanPort_System_String_System_Int32_
+  commentId: M:NetworkUtility.Services.PortScanService.ScanPort(System.String,System.Int32)
+  fullName: NetworkUtility.Services.PortScanService.ScanPort(System.String, System.Int32)
+  nameWithType: PortScanService.ScanPort(String, Int32)
+- uid: NetworkUtility.Services.PortScanService.ScanPort(System.String,System.String)
+  name: ScanPort(String, String)
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanPort_System_String_System_String_
+  commentId: M:NetworkUtility.Services.PortScanService.ScanPort(System.String,System.String)
+  fullName: NetworkUtility.Services.PortScanService.ScanPort(System.String, System.String)
+  nameWithType: PortScanService.ScanPort(String, String)
+- uid: NetworkUtility.Services.PortScanService.ScanPort*
+  name: ScanPort
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanPort_
+  commentId: Overload:NetworkUtility.Services.PortScanService.ScanPort
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PortScanService.ScanPort
+  nameWithType: PortScanService.ScanPort
+- uid: NetworkUtility.Services.PortScanService.ScanPortByRange(System.String,System.String,System.String)
+  name: ScanPortByRange(String, String, String)
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanPortByRange_System_String_System_String_System_String_
+  commentId: M:NetworkUtility.Services.PortScanService.ScanPortByRange(System.String,System.String,System.String)
+  fullName: NetworkUtility.Services.PortScanService.ScanPortByRange(System.String, System.String, System.String)
+  nameWithType: PortScanService.ScanPortByRange(String, String, String)
+- uid: NetworkUtility.Services.PortScanService.ScanPortByRange*
+  name: ScanPortByRange
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanPortByRange_
+  commentId: Overload:NetworkUtility.Services.PortScanService.ScanPortByRange
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PortScanService.ScanPortByRange
+  nameWithType: PortScanService.ScanPortByRange
+- uid: NetworkUtility.Services.PortScanService.ScanPorts(System.String[])
+  name: ScanPorts(String[])
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanPorts_System_String___
+  commentId: M:NetworkUtility.Services.PortScanService.ScanPorts(System.String[])
+  name.vb: ScanPorts(String())
+  fullName: NetworkUtility.Services.PortScanService.ScanPorts(System.String[])
+  fullName.vb: NetworkUtility.Services.PortScanService.ScanPorts(System.String())
+  nameWithType: PortScanService.ScanPorts(String[])
+  nameWithType.vb: PortScanService.ScanPorts(String())
+- uid: NetworkUtility.Services.PortScanService.ScanPorts(System.String[],System.Int32[])
+  name: ScanPorts(String[], Int32[])
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanPorts_System_String___System_Int32___
+  commentId: M:NetworkUtility.Services.PortScanService.ScanPorts(System.String[],System.Int32[])
+  name.vb: ScanPorts(String(), Int32())
+  fullName: NetworkUtility.Services.PortScanService.ScanPorts(System.String[], System.Int32[])
+  fullName.vb: NetworkUtility.Services.PortScanService.ScanPorts(System.String(), System.Int32())
+  nameWithType: PortScanService.ScanPorts(String[], Int32[])
+  nameWithType.vb: PortScanService.ScanPorts(String(), Int32())
+- uid: NetworkUtility.Services.PortScanService.ScanPorts*
+  name: ScanPorts
+  href: api/NetworkUtility.Services.PortScanService.html#NetworkUtility_Services_PortScanService_ScanPorts_
+  commentId: Overload:NetworkUtility.Services.PortScanService.ScanPorts
+  isSpec: "True"
+  fullName: NetworkUtility.Services.PortScanService.ScanPorts
+  nameWithType: PortScanService.ScanPorts
+- uid: NetworkUtility.Services.WhoIsService
+  name: WhoIsService
+  href: api/NetworkUtility.Services.WhoIsService.html
+  commentId: T:NetworkUtility.Services.WhoIsService
+  fullName: NetworkUtility.Services.WhoIsService
+  nameWithType: WhoIsService
+- uid: NetworkUtility.Services.WhoIsService.#ctor
+  name: WhoIsService()
+  href: api/NetworkUtility.Services.WhoIsService.html#NetworkUtility_Services_WhoIsService__ctor
+  commentId: M:NetworkUtility.Services.WhoIsService.#ctor
+  fullName: NetworkUtility.Services.WhoIsService.WhoIsService()
+  nameWithType: WhoIsService.WhoIsService()
+- uid: NetworkUtility.Services.WhoIsService.#ctor(System.String)
+  name: WhoIsService(String)
+  href: api/NetworkUtility.Services.WhoIsService.html#NetworkUtility_Services_WhoIsService__ctor_System_String_
+  commentId: M:NetworkUtility.Services.WhoIsService.#ctor(System.String)
+  fullName: NetworkUtility.Services.WhoIsService.WhoIsService(System.String)
+  nameWithType: WhoIsService.WhoIsService(String)
+- uid: NetworkUtility.Services.WhoIsService.#ctor*
+  name: WhoIsService
+  href: api/NetworkUtility.Services.WhoIsService.html#NetworkUtility_Services_WhoIsService__ctor_
+  commentId: Overload:NetworkUtility.Services.WhoIsService.#ctor
+  isSpec: "True"
+  fullName: NetworkUtility.Services.WhoIsService.WhoIsService
+  nameWithType: WhoIsService.WhoIsService
+- uid: NetworkUtility.Services.WhoIsService.GetWhoIsInfo(System.Boolean,System.Boolean,System.Boolean,System.Boolean)
+  name: GetWhoIsInfo(Boolean, Boolean, Boolean, Boolean)
+  href: api/NetworkUtility.Services.WhoIsService.html#NetworkUtility_Services_WhoIsService_GetWhoIsInfo_System_Boolean_System_Boolean_System_Boolean_System_Boolean_
+  commentId: M:NetworkUtility.Services.WhoIsService.GetWhoIsInfo(System.Boolean,System.Boolean,System.Boolean,System.Boolean)
+  fullName: NetworkUtility.Services.WhoIsService.GetWhoIsInfo(System.Boolean, System.Boolean, System.Boolean, System.Boolean)
+  nameWithType: WhoIsService.GetWhoIsInfo(Boolean, Boolean, Boolean, Boolean)
+- uid: NetworkUtility.Services.WhoIsService.GetWhoIsInfo*
+  name: GetWhoIsInfo
+  href: api/NetworkUtility.Services.WhoIsService.html#NetworkUtility_Services_WhoIsService_GetWhoIsInfo_
+  commentId: Overload:NetworkUtility.Services.WhoIsService.GetWhoIsInfo
+  isSpec: "True"
+  fullName: NetworkUtility.Services.WhoIsService.GetWhoIsInfo
+  nameWithType: WhoIsService.GetWhoIsInfo
+- uid: NetworkUtility.Services.WhoIsService.WhoIs
+  name: WhoIs()
+  href: api/NetworkUtility.Services.WhoIsService.html#NetworkUtility_Services_WhoIsService_WhoIs
+  commentId: M:NetworkUtility.Services.WhoIsService.WhoIs
+  fullName: NetworkUtility.Services.WhoIsService.WhoIs()
+  nameWithType: WhoIsService.WhoIs()
+- uid: NetworkUtility.Services.WhoIsService.WhoIs(System.String)
+  name: WhoIs(String)
+  href: api/NetworkUtility.Services.WhoIsService.html#NetworkUtility_Services_WhoIsService_WhoIs_System_String_
+  commentId: M:NetworkUtility.Services.WhoIsService.WhoIs(System.String)
+  fullName: NetworkUtility.Services.WhoIsService.WhoIs(System.String)
+  nameWithType: WhoIsService.WhoIs(String)
+- uid: NetworkUtility.Services.WhoIsService.WhoIs*
+  name: WhoIs
+  href: api/NetworkUtility.Services.WhoIsService.html#NetworkUtility_Services_WhoIsService_WhoIs_
+  commentId: Overload:NetworkUtility.Services.WhoIsService.WhoIs
+  isSpec: "True"
+  fullName: NetworkUtility.Services.WhoIsService.WhoIs
+  nameWithType: WhoIsService.WhoIs
